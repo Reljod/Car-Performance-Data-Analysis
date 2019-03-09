@@ -5,12 +5,13 @@ Monitor the performance of the car using data analysis and data visualization
 ## Features
 This are the features that will be measured and displayed
 ### From Sensor
-Current(Amperes)
-Battery Voltage(Volts)
-Temperature(Celsius)
-Revolution per Minute(RPM)
+<b>Current</b>(Amperes)<br>
+<b>Battery Voltage</b>(Volts)<br>
+<b>Temperature</b>(Celsius)<br>
+<b>Revolution per Minute</b>(RPM)<br>
 ### From Computations
-Speed(Kph)
-Power(Watts)
-Efficiency(unitless)
-Distance Covered(Km)
+<b>Speed(Kph)</b><br>
+<b>Power(Watts)</b><br>
+<b>Efficiency</b>(unitless)<br>
+<b>Distance Covered</b>(Km)<br>
+
